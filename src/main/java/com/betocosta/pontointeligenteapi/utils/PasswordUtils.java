@@ -1,7 +1,5 @@
 package com.betocosta.pontointeligenteapi.utils;
 
-
-/*
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
@@ -19,9 +17,6 @@ public class PasswordUtils {
 	 * @param senha
 	 * @return String
 	 */
-
-/*
-
 	public static String gerarBCrypt(String senha) {
 		if (senha == null) {
 			return senha;
@@ -33,6 +28,3 @@ public class PasswordUtils {
 	}
 
 }
-
-*/
-
